@@ -8,6 +8,8 @@ app = Flask(__name__)
 def home():
     return "Hello, sptm"
 
+this is error
+
 @app.route('/health')
 def health():
     report = server_health_check()

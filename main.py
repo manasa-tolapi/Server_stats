@@ -16,13 +16,13 @@ def health():
 
 
 # ✅ API 1: Get all posts (title, short-desc, image)
-@app.route('/posts')
+@app.route('/api/posts')
 def posts():
     return jsonify(get_all_posts())
 
 
 # ✅ API 2: Get single post by handle
-@app.route('/post/<postHandle>')
+@app.route('/api/post/<postHandle>')
 def post_detail(postHandle):
     post = get_post_by_handle(postHandle)
     if post:

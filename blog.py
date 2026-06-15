@@ -25,8 +25,8 @@ blog_posts = [
     {
         "handle": "post-4",
         "title": "Deploying Flask Apps",
-        "short_desc": "How to deploy your Flask app.",
-        "full_desc": "Deploying Flask apps can be done using Gunicorn, Docker...",
+        "short_desc": "How to deploy your Flask app..tm",
+        "full_desc": "Deploying Flask apps can be done using Gunicorn, Docker...TM",
         "image": "https://example.com/images/deploy.png"
     },
     {

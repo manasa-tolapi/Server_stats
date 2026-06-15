@@ -18,8 +18,8 @@ blog_posts = [
     {
         "handle": "post-3",
         "title": "Python Tips & Tricks",
-        "short_desc": "Boost your Python productivity.",
-        "full_desc": "Here are some lesser-known Python tips and tricks...",
+        "short_desc": "Boost your Python productivity..tm",
+        "full_desc": "Here are some lesser-known Python tips and tricks...TM",
         "image": "https://example.com/images/python.png"
     },
     {

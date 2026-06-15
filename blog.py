@@ -5,7 +5,7 @@ blog_posts = [
         "handle": "post-1",
         "title": "Getting Started with Flask",
         "short_desc": "A beginner-friendly guide to Flask.",
-        "full_desc": "Flask is a lightweight WSGI web application framework in Python...",
+        "full_desc": "Flask is a lightweight WSGI web application framework in Python... We can build restAPIs using it..SP",
         "image": "https://example.com/images/flask.png"
     },
     {

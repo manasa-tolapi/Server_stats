@@ -4,14 +4,14 @@ blog_posts = [
     {
         "handle": "post-1",
         "title": "Getting Started with Flask",
-        "short_desc": "A beginner-friendly guide to Flask.",
+        "short_desc": "A beginner-friendly guide to Flask..SP",
         "full_desc": "Flask is a lightweight WSGI web application framework in Python... We can build restAPIs using it..SP",
         "image": "https://example.com/images/flask.png"
     },
     {
         "handle": "post-2",
         "title": "Understanding REST APIs",
-        "short_desc": "Learn the basics of REST architecture.",
+        "short_desc": "Learn the basics of REST architecture..SP",
         "full_desc": "REST APIs are a way for systems to communicate over HTTP...",
         "image": "https://example.com/images/rest.png"
     },
